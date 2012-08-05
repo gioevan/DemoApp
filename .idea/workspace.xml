@@ -34,7 +34,7 @@
       <file leaf-file-name="hello_world.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/script/hello_world.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="16" selection-start="69" selection-end="69" vertical-scroll-proportion="0.20325203">
+            <state line="5" column="10" selection-start="63" selection-end="63" vertical-scroll-proportion="0.20325203">
               <folding />
             </state>
           </provider>
@@ -449,7 +449,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/script/hello_world.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="16" selection-start="69" selection-end="69" vertical-scroll-proportion="0.20325203">
+        <state line="5" column="10" selection-start="63" selection-end="63" vertical-scroll-proportion="0.20325203">
           <folding />
         </state>
       </provider>
