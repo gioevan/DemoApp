@@ -3,7 +3,7 @@ puts "Hello"
 message = if true
   "Hello Again"
 else
-  "Goodbye"
+  "Shalom!"
 end
 
 puts message
